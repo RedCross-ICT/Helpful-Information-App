@@ -27,7 +27,7 @@ env:
   NG_LOCALE_DIR: 'ltr'
   # Available language options (Comma-separated list like: '<language-code>:<language-name>,ar:العربية,en:English,*:Other...')
   # To disable the language-switcher on the main-page, or when using `NG_USE_REGION_PER_LOCALE=true`, set this to: ''
-  NG_LOCALE_ALTERNATIVES: 'ar:العربية, en:English, es:Español, fr:Français, *:Other...'
+  NG_LOCALE_ALTERNATIVES: 'ar:العربية, en:English, fr:Français, *:Other...'
   # An (optional) explanation below the list of available language options (i.e "* Using Google Translate")
   NG_LOCALE_ALTERNATIVES_EXPLANATION: '* Translations via Google Translate'
   #
@@ -40,9 +40,9 @@ env:
   # ###########################################################################
   #
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
-  TXT_APP_NAME: ''
+  TXT_APP_NAME: 'Helpful Information App'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
-  TXT_APP_LOGO_URL: ''
+  TXT_APP_LOGO_URL: 'https://www.ifrc.org/sites/default/files/styles/logo_thumbnail_375_x_210_/public/media/logo/2021-08/lebanon_red_cross_logo.png?itok=1EcmTQPW'
   # The first heading, (only) visible on the main-page
   TXT_MAIN_PAGE_HEADER: ''
   # The (optional) introduction text, (only) visible on the main-page.
@@ -98,7 +98,7 @@ env:
     Information
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    1peF7ZluA2Pk_H40McLSfBvkFU-I4s_9aLDyiFs50LHk
 
 # #############################################################################
 #
